@@ -1,0 +1,24 @@
+body{background-color: #CDF8FA}
+p{
+	margin-left: auto;
+	font-weight: ;
+	background-color: 
+	width:30%;
+	height: 100px;
+	overflow: scroll;
+	}
+p{color:black;}
+.extra p{color:inherit}
+h1{ 
+	margin-right: auto;
+	font-style: : "Times New Roman";
+	font-size: 15px;
+	background-color: blue;
+	margin:5% 5% 5% 5%;
+}
+h2{
+	font-style: "Apple Chancery";
+	font-size: 15px;
+	background-color: gray;
+	margin:5% 5% 5% 5%;
+	}
